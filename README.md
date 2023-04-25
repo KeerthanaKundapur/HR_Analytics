@@ -1,12 +1,12 @@
 # HR_Analytics
-Objective:
+**Objective**:
 
 Created the HR analysis dashboard with the aim of assisting the organization in enhancing employee performance and retention through data-driven insights and recommendations.
 
-Tool: Power BI (For data cleaning and Visualization)
+**Tool**: Power BI (For data cleaning and Visualization)
 	Excel (extract data from excel)
 
-KPI's:
+**KPI's**:
 > Total number of Employees,Attrition Count and Attrition Rate
 > Attrition by Gender
 > Attrition by Education Field
@@ -16,9 +16,9 @@ KPI's:
 > Attrition by Year at Company
 > Attrition by Job role by Job Satisfaction
 
-Dashboard:<img width="653" alt="HR Analytics" src="https://user-images.githubusercontent.com/112420165/234149320-e9e875c9-39e5-4d1e-a3b9-0f062a8c8e66.png">
+**Dashboard**:<img width="653" alt="HR Analytics" src="https://user-images.githubusercontent.com/112420165/234149320-e9e875c9-39e5-4d1e-a3b9-0f062a8c8e66.png">
 
-Insights:
+**Insights**:
 
 Based on the information provided in the dashboard, we can observe various insights related to employee attrition. The total number of employees in the company is 1470, out of which 237 employees have left the company, resulting in an attrition rate of 16%. The average age of employees is 37, with an average salary and working years of 6.5K and 7, respectively.
 
