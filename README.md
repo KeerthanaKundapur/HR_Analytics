@@ -4,8 +4,7 @@
 Created the HR analysis dashboard with the aim of assisting the organization in enhancing employee performance and retention through data-driven insights and recommendations.
 
 **Tool**: Power BI (For data cleaning and Visualization)
-	Excel (extract data from excel)
-
+	
 **KPI's**:
 > Total number of Employees,Attrition Count and Attrition Rate
 > Attrition by Gender
