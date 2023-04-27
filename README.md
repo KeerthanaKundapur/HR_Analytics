@@ -6,14 +6,14 @@ Created the HR analysis dashboard with the aim of assisting the organization in 
 **Tool**: Power BI (For data cleaning and Visualization)
 	
 **KPI's**:
-> Total number of Employees,Attrition Count and Attrition Rate
-> Attrition by Gender
-> Attrition by Education Field
-> Attrition by Age
-> Attrition by Salary
-> Attrition by Job Role
-> Attrition by Year at Company
-> Attrition by Job role by Job Satisfaction
+1. Total number of Employees,Attrition Count and Attrition Rate
+2. Attrition by Gender
+3. Attrition by Education Field
+4. Attrition by Age
+5. Attrition by Salary
+6. Attrition by Job Role
+7. Attrition by Year at Company
+8. Attrition by Job role by Job Satisfaction
 
 **Dashboard**:<img width="653" alt="HR Analytics" src="https://user-images.githubusercontent.com/112420165/234149320-e9e875c9-39e5-4d1e-a3b9-0f062a8c8e66.png">
 
